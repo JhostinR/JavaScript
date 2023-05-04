@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient( 80deg, #FFF3B0 15%, #CA26FF 75%);
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+    font-size: larger;
+}
+h1 {
+    color: bisque;
+}
+b{
+    color: bisque;
+}
